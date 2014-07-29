@@ -1,0 +1,9 @@
+{
+  "name": "grunt-excision-sample",
+  "version": "0.0.0",
+  "description": "grunt-excision sample",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-excision": "^1.3.0"
+  }
+}
